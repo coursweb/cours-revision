@@ -33,3 +33,5 @@ Modèle de site pour présenter les résultats:
 Autres outils possibles: 
 - https://quizizz.com/
 - Anki (plus fameuse application de "FlashCards") - https://apps.ankiweb.net/
+
+---

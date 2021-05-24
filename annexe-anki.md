@@ -3,9 +3,9 @@ layout: page
 title: Annexe : Anki
 ---
 
-Annexe: apprendre avec Anki
+## Annexe: apprendre avec Anki
 
-Anki est une application d'apprentissage par "flashcards" lancées en 2006. Anki Desktop est une application gratuite. 
+Anki est une application d'apprentissage par "flashcards" lancées en 2006. Anki Desktop est une application gratuite sous licence open-source. 
 
 La source officielle: [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 
@@ -20,7 +20,7 @@ Les principes pour apprendre avec des "flashcards":
 
 À noter:
 
-Il existe une "fausse" application Anki, nommée AnkiApp, disponible dans les app-store Apple et Google. C'est un projet non-autorisé, créée par une entreprise chinoise Admium Corp. Elle a tendance à apparaître en premier dans les résultats de recherche.
+Il existe une "fausse" application Anki, nommée AnkiApp, disponible dans les app-store Apple et Google. C'est un projet non-autorisé, créée par l'entreprise chinoise Admium Corp. Elle a tendance à apparaître en premier dans les résultats de recherche.
 
 Quelques articles pour approfondir:
 
