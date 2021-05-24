@@ -5,7 +5,7 @@ title: Annexe : Anki
 
 ## Annexe: apprendre avec Anki
 
-Anki est une application d'apprentissage par "flashcards" lancées en 2006. Anki Desktop est une application gratuite sous licence open-source. 
+**Anki** est une application d'apprentissage par "flashcards" lancées en 2006. Anki Desktop est une application gratuite sous licence open-source. 
 
 La source officielle: [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 
