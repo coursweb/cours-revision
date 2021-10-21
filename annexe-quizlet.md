@@ -1,19 +1,22 @@
+---
+layout: page
+title: Annexe - Quizlet
+---
+
 Quizlet
 
 
 
-Observations sur le mode Quizlet Live:
+### Observations sur le mode Quizlet Live:
 
-
-
-Dans le mode "live", les questions QCM ne sont pas prises en compte. Ce ne sont que les termes / définitions qui sont mélangés. Cependant, l'activité reste participative et prenante.
+Dans le mode "live", les questions QCM ne sont *pas prises en compte*. Ce ne sont que les termes / définitions qui sont mélangés. Cependant, l'activité reste participative et prenante.
 
 Le mode Quizlet Live propose deux options:
 
 1. Voir **une définition**, choisir parmi les **termes**
 2. Voir **un terme**, choisir parmi les **définitions**
 
-Le premier mode est généralement trop facile. Il faut privilégier le 2e mode, qui demande plus de réflexion.
+Le premier mode est généralement trop facile. Il faut *privilégier le 2e mode*, car il demande *plus de réflexion*.
 
 ## Expliquer Quizlet aux apprenants
 

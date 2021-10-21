@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deuxième phase
+title: Première phase
 ---
 
 Première phase : création de questionnaire

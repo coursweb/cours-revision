@@ -1,22 +1,24 @@
 ---
 layout: page
-title: Annexe : Anki
+title: Annexe - Anki
 ---
 
-## Annexe: apprendre avec Anki
+
 
 **Anki** est une application d'apprentissage par "flashcards" lancées en 2006. Anki Desktop est une application gratuite sous licence open-source. 
 
 La source officielle: [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 
-Anki est conçu pour se créer des sets de cartes (des "deks") d'apprentissage.
+Anki est conçu pour se créer des sets de cartes (des "decks") d'apprentissage.
+
+
+
+## Apprendre avec Anki
 
 Les principes pour apprendre avec des "flashcards":
 
 - Il est impératif de ne pas "retourner" la carte avant d'avoir fait travailler sa mémoire. On peut s'obliger à noter une réponse sur un brouillon.
 - Il faut les utiliser régulièrement! Les applications vont détecter quelles cartes sont apprises (révision moins fréquente) et non-apprises (révision plus fréquente).
-
-
 
 À noter:
 
