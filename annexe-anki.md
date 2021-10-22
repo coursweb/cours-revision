@@ -9,7 +9,7 @@ title: Annexe - Anki
 
 La source officielle: [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 
-Anki est conçu pour se créer des sets de cartes (des "decks") d'apprentissage.
+Anki est conçu pour se créer des sets de cartes (des "decks") d'apprentissage. Cette application est beaucoup utilisée par des étudiants dans des branches comme la médecine ou le droit, ayant beaucoup d'informations à mémoriser.
 
 
 
@@ -22,7 +22,7 @@ Les principes pour apprendre avec des "flashcards":
 
 À noter:
 
-Il existe une "fausse" application Anki, nommée AnkiApp, disponible dans les app-store Apple et Google. C'est un projet non-autorisé, créée par l'entreprise chinoise Admium Corp. Elle a tendance à apparaître en premier dans les résultats de recherche.
+Il existe une "fausse" application Anki, nommée AnkiApp, disponible dans les app-store Apple et Google. C'est un projet non-autorisé dérivé d'Anki, créée par l'entreprise chinoise Admium Corp. Elle a tendance à apparaître en premier dans les résultats de recherche.
 
 Quelques articles pour approfondir:
 

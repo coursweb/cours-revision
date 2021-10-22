@@ -5,6 +5,18 @@ title: Deuxième phase
 
 ## Deuxième phase : test et auto-evaluation
 
-Chaque élève s'évalue à l'aide des questionnaires créés.
+Déroulement de cette phase intermédiaire:
 
-L'élève prend note de ses résultats, et rédige une auto-évaluation. Celle-ci lui permet de détecter les domaines dans lesquels il devra investir de l'effort.
+- Chaque élève s'évalue à l'aide des questionnaires créés.
+- Chaque élève prend note de ses résultats et effectue une auto-évaluation: quelles matières sont bien maîtrisées, lesquelles présentent des lacunes.
+
+### Rédaction d'une autoévaluation
+
+L'élève prend note de ses résultats, et rédige une **auto-évaluation**. Il doit détecter les domaines dans lesquels il devra investir de l'effort.
+
+L'élève se fixe les objectifs d’apprentissage pour les prochaines séances.
+
+Ce document (une à deux pages A4) fait l’objet d’une note. Les critères d’évaluation sont les suivants:
+* Déterminer quels domaines sont maîtrisés, lesquels présentent des lacunes.
+* Visualiser son évaluation sous la forme d'un graphique ou tableau.
+* Définir ses objectifs d'apprentissage pour la suite du travail.

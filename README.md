@@ -6,9 +6,9 @@ Ce mini-site décrit un module conçu pour aider un groupe d'élèves à révise
 
 Structure:
 
-1. Première phase: création de questionnaires.
+1. Première phase: création de questionnaires (travail en binôme).
 2. Etape intermédiaire: utilisation des questionnaires, auto-évaluation.
-3. Deuxième phase: création de supports de révision personnalisés.
+3. Dernière phase: création de supports de révision personnalisés (travail individuel).
 
 Traces et documents annexes:
 
@@ -35,7 +35,10 @@ Cette documentation est réalisée par Manuel Schmalstieg dans le cadre de sa fo
 ---
 
 Autres outils possibles: 
-- avec une approche ludique: https://quizizz.com/
-- avec une approche sérieuse: Anki (la plus fameuse application de "FlashCards") - https://apps.ankiweb.net/
+
+Nous avons utilisé pour ce module l'outil Quizlet. Mais d'autres outils auraient été possibles (et peut-être plus efficaces):
+
+* avec une approche ludique: https://quizizz.com/
+* avec une approche sérieuse: Anki (la plus fameuse application de "FlashCards") - https://apps.ankiweb.net/
 
 ---
