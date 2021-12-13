@@ -1,8 +1,8 @@
-# Cours de révision
+# Module de cours de révision
 
-Module de cours de révision (médias interactifs).
+Ce site décrit un module d'enseignement conçu pour aider un groupe d'élèves à *réviser* une matière. La cas d'exemple porte sur un cours "Révision médias interactifs", mais le principe peut être appliqué à d'autres matières.
 
-Ce mini-site décrit un module conçu pour aider un groupe d'élèves à réviser une matière.
+La principale 
 
 Structure:
 
@@ -26,19 +26,11 @@ Modèle de site pour présenter les résultats:
 
 ## Contexte
 
-La première implémentation de ce cours de révision s'est déroulée au printemps 2021, dans les cours "Révision médias interactifs" de deux classes terminales du cursus CFC Interactive Media Designer, Eracom, Lausanne. Ce cours est entièrement consacré aux revisions du domaine des médias interactifs pratique et théorique. Du design-écran à l’UI et UX, tous les domaines de conception sont passés en revue dans l’idée de préparer les apprenti-es aux examens CFC. 
+L'idée de ce modèle de cours a émergé en février 2020 lors de discussions avec les enseignants David Maye et Philippe Cordey, chargés d'un module de révision concernant l'audiovisuel (dans le cursus CFC Interactive Media Designer, Eracom, Lausanne). Ces réflexions ont donné lieu à un [article de blog](https://ms-studio.net/notes/concept-pour-un-cours-de-revision/).
+
+Une année plus tard, au printemps 2021, ce modèle est développé et mis en pratique dans le cadre des cours "Révision médias interactifs" donnés pour deux classes terminales du même cursus. Cette fois-ci, le cours est consacré aux revisions du domaine des médias interactifs. Du design-écran à l’UI et UX, tous les domaines de conception sont passés en revue dans l’idée de préparer les apprenti-es aux examens CFC. 
 
 Equipe enseignante: Chau-Uyen Mai, Manuel Schmalstieg.
 
-Cette documentation est réalisée par Manuel Schmalstieg dans le cadre de sa formation pédagogique à l'IFFP (module D, sous la supervision de [Karine Brodard](http://www.karinebrodard.ch/)).
+Cette documentation est réalisée par Manuel Schmalstieg dans le cadre de sa formation pédagogique à la HEFP (module D, sous la supervision de [Karine Brodard](http://www.karinebrodard.ch/)).
 
----
-
-Autres outils possibles: 
-
-Nous avons utilisé pour ce module l'outil Quizlet. Mais d'autres outils auraient été possibles (et peut-être plus efficaces):
-
-* avec une approche ludique: https://quizizz.com/
-* avec une approche sérieuse: Anki (la plus fameuse application de "FlashCards") - https://apps.ankiweb.net/
-
----

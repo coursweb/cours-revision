@@ -3,13 +3,11 @@ layout: page
 title: Annexe - Quizlet
 ---
 
-Quizlet
-
-
+Quizlet est un site web d'apprentissage, qui existe depuis 2007.
 
 ### Observations sur le mode Quizlet Live:
 
-Dans le mode "live", les questions QCM ne sont *pas prises en compte*. Ce ne sont que les termes / définitions qui sont mélangés. Cependant, l'activité reste participative et prenante.
+Dans le mode "live", les questions QCM (fonctionalité marquée "beta") ne sont *pas prises en compte*. Ce ne sont que les termes / définitions qui sont mélangés. Cependant, l'activité reste participative et prenante.
 
 Le mode Quizlet Live propose deux options:
 
@@ -38,4 +36,8 @@ En complément au fonctionnement de Quizlet, il est utile de donner des informat
 - Le fonctionnement de la mémoire
 - La bonne formulation de questions QCM "de compréhension"
 
+## Limitations de quizlet
+
+- L'édition de questions QCM est limité aux comptes Pro.
+- Les questions QCM ne sont pas respectées dans certains modes d'apprentissage.
 
