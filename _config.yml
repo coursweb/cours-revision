@@ -2,7 +2,7 @@ remote_theme: coursweb/jk-theme
 title: Cours de révision
 description: Un concept de cours de révision.
 lang: fr-FR
-markdown: GFM
+# markdown: GFM
 chapters:
  - title: Cours-web
    url: https://cours-web.ch/
