@@ -15,3 +15,8 @@ Le travail effectué pour cette étape (production des listes de questions) fait
 *	Exhaustivité (quantité des questions).
 *	Soin de rédaction, formulation bien pensée.
 *	Degré  de difficulté approprié.
+
+## Exemples de questionnaires produits
+
+Cette classe Quizlet rassemble des questionnaires produits par des élèves: [https://quizlet.com/class/17036438/](https://quizlet.com/class/17036438/)
+
