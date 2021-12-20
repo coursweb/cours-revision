@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deuxième phase
+title: Phase 2 - auto-éval
 ---
 
 ## Deuxième phase : test et auto-evaluation

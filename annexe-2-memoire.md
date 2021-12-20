@@ -10,9 +10,9 @@ Pour toute personne en apprentissage, il est utile d'avoir une compréhension de
 
 La **courbe de l'oubli** a été mesurée déjà au 19e siècle par Hermann Ebbinghaus. Elle a été confirmée par la recherche actuelle, qui montre que 70% des informations sont oubliées après une journée.
 
-![](img/courbe_oubli.png)
-
 Pour ancrer un savoir dans notre mémoire de manière durable, les "retrieval practice" sont l'une des méthodes les plus efficaces. Plutôt que de relire un texte, il faut se confronter à des **questions** qui obligent à *reformuler*, c'est à dire à extraire (retrieve) l'information de votre mémoire.
+
+![](img/courbe_oubli.png)
 
 [Cette présentation Google Slides](https://docs.google.com/presentation/d/1AUgOeJnIlR5ASpQVlO7k099FE7-EhjC9Mn5WNv2u16A/edit?usp=sharing) donne une introduction pour les élèves aux notions de "courbe de l'oubli", "retrieval practice" et "spaced practice".
 

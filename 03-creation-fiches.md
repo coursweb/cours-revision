@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tâche 3 - fiches
+title: Phase 3 - Création fiches
 ---
 
 Tâche 3: Production de fiches récapitulatives sur un sujet précis
@@ -14,3 +14,12 @@ Les matières sont attribuées par l’enseignant, en se basant sur l’auto-év
 la fiche produite est diffusée aux deux classes. Un site internet sera créé pour faciliter le partage des fiches.
 
 La réalisation de ces deux fiches fait l’objet d’une note.
+
+## Exemples de fiches produites:
+
+Ces site dédiés rassemblent des fiches créées par des élèves :
+
+- [https://eracom-id471.github.io/revisions/](https://eracom-id471.github.io/revisions/) : fiches de la classe ID471.
+- https://eracom-pedagogique.ch/IDRevisions/ : fiches de la classe ID471.
+
+![Site web rassemblant des fiches de révision](img/site-revisions-id381.jpg)
