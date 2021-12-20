@@ -21,5 +21,7 @@ Ces site dédiés rassemblent des fiches créées par des élèves :
 
 - [https://eracom-id471.github.io/revisions/](https://eracom-id471.github.io/revisions/) : fiches de la classe ID471.
 - https://eracom-pedagogique.ch/IDRevisions/ : fiches de la classe ID471.
+- Exemple de fiche : [Marketing mix](fiches/marketing-mix.pdf)
+- Exemple de fiche : [Codecs et pixels](fiches/codecs-pixels.pdf)
 
 ![Site web rassemblant des fiches de révision](img/site-revisions-id381.jpg)
