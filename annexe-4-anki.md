@@ -11,8 +11,6 @@ La source officielle: [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 
 Anki est conçu pour se créer des sets de cartes (des "decks") d'apprentissage. Cette application est beaucoup utilisée par des étudiants dans des branches comme la médecine ou le droit, ayant beaucoup d'informations à mémoriser.
 
-
-
 ## Apprendre avec Anki
 
 Les principes pour apprendre avec des "flashcards":
@@ -24,6 +22,9 @@ Les principes pour apprendre avec des "flashcards":
 
 Il existe une "fausse" application Anki, nommée AnkiApp, disponible dans les app-store Apple et Google. C'est un projet non-autorisé dérivé d'Anki, créée par l'entreprise chinoise Admium Corp. Elle a tendance à apparaître en premier dans les résultats de recherche.
 
-Quelques articles pour approfondir:
+Quelques sources d'information sur Anki:
 
 - R. Patterson (2021), *[These Flashcard Apps Will Help You Study Better in 2021](https://collegeinfogeek.com/flashcard-apps/)*, College Info Geek.
+- A. Palmerton (2014), [Med School Anki: Make (or Find) USMLE-Crushing Flashcards](https://www.yousmle.com/med-school-anki/), Yousmle.com
+- [docs.ankiweb.net](https://docs.ankiweb.net/getting-started.html) - la documentation officielle d'Anki
+- [r/Anki](https://www.reddit.com/r/Anki/) - un forum Reddit dédié à Anki
