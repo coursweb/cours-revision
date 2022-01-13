@@ -24,4 +24,6 @@ Ces sites dédiés rassemblent des fiches créées par des élèves :
 - Exemple de fiche : [Marketing mix](fiches/marketing-mix.pdf)
 - Exemple de fiche : [Codecs et pixels](fiches/codecs-pixels.pdf)
 
+![Exemples de fiches](img/exemples-fiches-revision.jpg)
+
 ![Site web rassemblant des fiches de révision](img/site-revisions-id381.jpg)
