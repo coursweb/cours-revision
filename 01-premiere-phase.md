@@ -20,6 +20,8 @@ Le travail effectué pour cette étape (production des listes de questions) fait
 
 Cette classe Quizlet rassemble des questionnaires produits par des élèves: [https://quizlet.com/class/17036438/](https://quizlet.com/class/17036438/)
 
+![](img/quizlet-decks.jpg)
+
 ## Conseils pour la création des questions
 
 Si les questions ne sont pas bien conçues, elles ne testeront qu'un savoir superficiel de mémorisation de vocabulaire, et pas de compréhension plus profonde.
@@ -34,7 +36,7 @@ Une recommandation consiste à opter pour le format "Select All That Apply" (Cho
 
 ### Rédaction d'un item à choix multiple
 
-Voici un extrait du livre d'Alain Rieunier, *Préparer un cours* (2001). Rieunier montre que l'item à choix multiple bien conçu permet d'évaluer un niveau cognitif supérieur.
+Voici un extrait du livre d'Alain Rieunier, *Préparer un cours* (2001). Rieunier montre qu'un item à choix multiple bien conçu permet d'évaluer un niveau cognitif supérieur.
 
 ![](img/Rieunier2001-p83.jpg)
 
@@ -43,3 +45,11 @@ Voici un extrait du livre d'Alain Rieunier, *Préparer un cours* (2001). Rieuni
 ![](img/Rieunier2001-p85.jpg)
 
 Voici [ces pages en PDF](pdf/Rieunier-questions-QCM.pdf) pour les distribuer aux élèves.
+
+### Limites des QCM
+
+La documentation de l'outil de révision Anki considère que les QCM facilitent la correction, mais ne sont pas la meilleure manière d'apprendre, puisque les réponses sont suggérées. L'exemple donné propose un très bas niveau cognitif.
+
+![](img/anki-on-multiple-choice.jpg)
+
+Source: [https://faqs.ankiweb.net/multiple-choice-questions.html](https://faqs.ankiweb.net/multiple-choice-questions.html)
