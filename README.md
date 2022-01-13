@@ -1,8 +1,8 @@
 # Module de cours de révision
 
-Ce site décrit un module d'enseignement conçu pour aider un groupe d'élèves à *réviser* une matière. La cas d'exemple porte sur un cours "Révision médias interactifs", mais le principe peut être appliqué à d'autres matières.
+Ce site décrit un module d'enseignement conçu pour aider un groupe d'élèves à *réviser* une matière. Le cas d'exemple décrit porte sur un cours "Révision médias interactifs", mais le principe peut être appliqué à d'autres matières.
 
-La principale 
+La principale idée est que les apprenants produisent leur propre support de révision et de vérification, notamment en utilisant un outil d'apprentissage comme Quizlet.
 
 Structure:
 
@@ -16,11 +16,11 @@ Traces et documents annexes:
 - Conseils d'utilisation de Quizlet
 - Information sur l'apprentissage et la mémorisation
 - Information sur la "spaced retrieval practice" et les stratégies cognitives
-- Information sur des outils comme Anki
+- Information sur des outils alternatifs comme Anki
 
 Modèle de site pour présenter les résultats:
 
-- https://github.com/eracom/revisions-medias-interactifs-2021/
+- [github.com/eracom/revisions-medias-interactifs-2021/](https://github.com/eracom/revisions-medias-interactifs-2021/)
 
 ---
 
