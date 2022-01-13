@@ -13,10 +13,10 @@ Structure:
 Traces et documents annexes:
 
 - Aides à la création de questionnaires
-- Conseils d'utilisation de Quizlet
-- Information sur l'apprentissage et la mémorisation
+- Conseils d'utilisation de Quizlet - voir [Annexe: Quizlet](annexe-3-quizlet.html)
+- Information sur l'apprentissage et la mémorisation - voir [Annexe: mémorisation](memoire.html)
 - Information sur la "spaced retrieval practice" et les stratégies cognitives
-- Information sur des outils alternatifs comme Anki
+- Information sur des outils alternatifs comme Anki - voir [Annexe: Anki](annexe-4-anki.html)
 
 Modèle de site pour présenter les résultats:
 

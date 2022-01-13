@@ -29,12 +29,12 @@ Il est utile de montrer aux apprenants les différents modes d'apprentissage dis
 Explications sur les types de fiches:
 
 - Terme / définition
-- Questions à choix multiple.
+- Questions à choix multiple (QCM). Uniquement disponibles avec un compte "Quizlet Plus for teachers".
 
 En complément au fonctionnement de Quizlet, il est utile de donner des informations aux élèves sur:
 
 - Le fonctionnement de la mémoire
-- La bonne formulation de questions QCM "de compréhension"
+- La bonne formulation de questions QCM "de compréhension" - Voir [Phase 1 - création questionnaire](01-premiere-phase.html)
 
 ## Limitations de quizlet
 
