@@ -33,11 +33,12 @@ Explications sur les types de fiches:
 
 En complément au fonctionnement de Quizlet, il est utile de donner des informations aux élèves sur:
 
-- Le fonctionnement de la mémoire
+- Le fonctionnement de la mémoire - Voir [Annexe: mémorisation](memoire.html)
 - La bonne formulation de questions QCM "de compréhension" - Voir [Phase 1 - création questionnaire](01-premiere-phase.html)
 
 ## Limitations de quizlet
 
-- L'édition de questions QCM est limité aux comptes Pro.
-- Les questions QCM ne sont pas respectées dans certains modes d'apprentissage.
-
+- L'édition de questions au format QCM n'est pas accessible aux élèves, à moins de partager le login du compte Quizlet Plus.
+- Quizlet privilégie le modèle "terme : définition", les variantes du QCM ne sont pas prises en compte dans certains modes d'apprentissage.
+- Le format QCM est limité: une seule réponse juste.
+- Le suivi des élèves est difficile, l'enseignant·e a peu de visibilité sur leur pratique de révision.

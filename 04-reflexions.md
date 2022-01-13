@@ -19,6 +19,6 @@ Durant le cours "Révision médias numériques" du semestre de printemps 2021, n
 ### Quelques points faibles de Quizlet
 
 - L'édition de questions au format QCM n'est pas accessible aux élèves, à moins de partager le login du compte Quizlet Plus.
-- Quizlet privilégie le modèle "terme : définition", les variantes du QCM ne sont pas prises en compte dans certains modes.
+- Quizlet privilégie le modèle "terme : définition", les variantes du QCM ne sont pas prises en compte dans certains modes d'apprentissage.
 - Le format QCM est limité: une seule réponse juste.
 - Le suivi des élèves est difficile, l'enseignant·e a peu de visibilité sur leur pratique de révision.
